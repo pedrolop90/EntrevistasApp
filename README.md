@@ -1,2 +1,0 @@
-# EntrevistasApp
-EntrevistasApp
